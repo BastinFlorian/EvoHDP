@@ -2,7 +2,7 @@
 
 Evolutionnary Hierarchical Dirichlet Process for Multiple Correlated Time-Varying Corpora
 
-Implementation of EvoHDP following the Zhang, Song & al paper :
+Python implementation of EvoHDP following  Zhang, Song & al paper :
 http://www.shixialiu.com/publications/evohdp/paper.pdf 
 
 All the details and maths comments about the method used are in the notebook. 
